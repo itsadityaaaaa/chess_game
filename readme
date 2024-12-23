@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Multiplayer Chess Game
 
 Overview
@@ -56,4 +57,64 @@ Inspiration from classic chess games.
 Contact
 
 Aditya Verma
+=======
+Multiplayer Chess Game
+
+Overview
+
+This project is a multiplayer chess game built using HTML5, CSS, JavaScript, and Socket.IO. It enables two players to connect over a network and play a classic game of chess in real time. The application provides an intuitive user interface and ensures smooth gameplay through real-time synchronization between clients.
+
+Features
+
+Real-Time Multiplayer: Play chess with friends or other players online using Socket.IO for seamless real-time communication.
+
+Responsive Design: The game is optimized for different screen sizes and works well on both desktop and mobile devices.
+
+Interactive UI: Drag-and-drop functionality for moving chess pieces.
+
+Valid Move Detection: Ensures that players follow the rules of chess by allowing only valid moves.
+
+Game Synchronization: Both players’ boards are kept in sync, ensuring a smooth gameplay experience.
+
+Winner Detection: Automatically detects when a player wins (checkmate) or when the game ends in a draw.
+
+Tech Stack
+
+Frontend:
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Backend:
+
+Node.js
+
+Socket.IO for real-time communication
+
+Installation and Setup
+
+Prerequisites
+
+Node.js (v20 or later recommended)
+
+npm (comes with Node.js)
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+
+Chess.js: Used for chess move validation and game logic.
+
+Socket.IO: For enabling real-time communication.
+
+Inspiration from classic chess games.
+
+Contact
+
+Aditya Verma
+>>>>>>> d8a157bed3ff21d77d16d03a04738c54cb53ddb8
 Email: vaditya094@gmail.com
