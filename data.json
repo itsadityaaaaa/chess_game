@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 {
-    "color" : "#938c92,#eeeeee" ,
+    "color" : "#black,#white" ,
     "pieces" : "12 unique",
     "sqaure -id" : "64 possibilities"
 
-=======
-{
-    "color" : "#938c92,#eeeeee" ,
-    "pieces" : "12 unique",
-    "sqaure -id" : "64 possibilities"
-
->>>>>>> d8a157bed3ff21d77d16d03a04738c54cb53ddb8
 }
