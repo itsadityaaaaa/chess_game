@@ -1,0 +1,15 @@
+body {
+    background-color: #282828;
+}
+#root {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.squarerow {
+    width: 800px;
+    height: 200px;
+    background-color: white;
+    margin-bottom: 20px;
+}
